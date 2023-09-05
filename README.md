@@ -1,7 +1,8 @@
 # ab-test-for-online-store
 #### **Work on hypotheses to increase online store revenue**
 
-💡 **I can:** 💡
+💡 **I can:** 💡  
+
 ⭐ to look for metrics that need to be improved;  
 ⭐ generate hypotheses;  
 ⭐ choose a method for checking them;  

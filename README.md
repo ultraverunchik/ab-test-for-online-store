@@ -1,5 +1,6 @@
 # ab-test-for-online-store
-Work on hypotheses to increase online store revenue  
+##### **Work on hypotheses to increase online store revenue**
+
 ⭐ During this project, I learned to look for metrics that need to be improved;  
 ⭐ Generate hypotheses;  
 ⭐ Choose a method for checking them;  
